@@ -1,3 +1,12 @@
 .DS_Store
 .claude/
 .playwright-mcp/
+
+# --- 대용량 파생 문서 (재생성 가능하므로 저장소에서 제외) ---
+# 등급별 문서는 통합본 + _data 의 answers.py / build_yt.py 로 재생성 가능
+TSC 기출문제집/TSC 기출*회_3급.docx
+TSC 기출문제집/TSC 기출*회_4급.docx
+TSC 기출문제집/TSC 기출*회_5급.docx
+# 실전문제집 통합 답변본(각 58MB) — _data + 생성이미지 로 재생성 가능
+TSC 실전문제집/TSC 실전1~5회_제2~7부분_*.docx
+TSC 실전문제집/TSC 실전문제집 4부분까지_4급.docx

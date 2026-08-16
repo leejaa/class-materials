@@ -1,0 +1,264 @@
+{
+ "_meta": {
+  "source": "TSC 기출문제집 온라인 영상 테스트 기출 1회 (YouTube w-1xuoo3LaM)",
+  "note": "질문=화면 OCR+음성 전사, 그림=프레임 판독 후 재생성. Q6은 가격표라 직접 렌더링."
+ },
+ "questions": [
+  {
+   "n": 1,
+   "part": "제1부분",
+   "num": "1",
+   "zh": "你叫什么名字？",
+   "ko": "이름이 무엇입니까?",
+   "img": null
+  },
+  {
+   "n": 2,
+   "part": "제1부분",
+   "num": "2",
+   "zh": "请说出你的出生年月日。",
+   "ko": "생년월일을 말해 보세요.",
+   "img": null
+  },
+  {
+   "n": 3,
+   "part": "제1부분",
+   "num": "3",
+   "zh": "你家有几口人？",
+   "ko": "가족이 몇 명입니까?",
+   "img": null
+  },
+  {
+   "n": 4,
+   "part": "제1부분",
+   "num": "4",
+   "zh": "你在什么地方工作？或者你在哪个学校上学？",
+   "ko": "어디에서 일합니까? 또는 어느 학교에 다닙니까?",
+   "img": null
+  },
+  {
+   "n": 5,
+   "part": "제2부분",
+   "num": "1",
+   "zh": "门前面有什么？",
+   "ko": "문 앞에 무엇이 있습니까?",
+   "img": {
+    "file": "g1_05.png",
+    "prompt": "Flat 2D Korean-textbook illustration for a language exam. Bold clean uniform black outlines, simple flat cel colors, minimal shading, simple uncluttered background, bright friendly palette. No text, no letters, no numbers, no speech bubbles, no watermark.\n\nTwo cute dogs sitting on stone steps directly in front of a large closed wooden double door of a house. One dog is white and short-haired, the other is light brown and fluffy. Small green bushes on both sides. Front view.",
+    "size": "1024x1024"
+   }
+  },
+  {
+   "n": 6,
+   "part": "제2부분",
+   "num": "2",
+   "zh": "哪种东西最便宜？",
+   "ko": "어느 것이 가장 쌉니까?",
+   "img": null
+  },
+  {
+   "n": 7,
+   "part": "제2부분",
+   "num": "3",
+   "zh": "他们在跑步吗？",
+   "ko": "그들은 달리기를 하고 있습니까?",
+   "img": {
+    "file": "g1_07.png",
+    "prompt": "Flat 2D Korean-textbook illustration for a language exam. Bold clean uniform black outlines, simple flat cel colors, minimal shading, simple uncluttered background, bright friendly palette. No text, no letters, no numbers, no speech bubbles, no watermark.\n\nTwo teenage boys playing basketball on an outdoor court under a blue sky. The boy on the left wears a blue sleeveless jersey and dribbles an orange basketball; the boy on the right wears a white sleeveless jersey and defends with both hands out. A basketball hoop in the upper right, chain-link fence behind them.",
+    "size": "1024x1024"
+   }
+  },
+  {
+   "n": 8,
+   "part": "제2부분",
+   "num": "4",
+   "zh": "手机在哪儿？",
+   "ko": "휴대폰은 어디에 있습니까?",
+   "img": {
+    "file": "g1_08.png",
+    "prompt": "Flat 2D Korean-textbook illustration for a language exam. Bold clean uniform black outlines, simple flat cel colors, minimal shading, simple uncluttered background, bright friendly palette. No text, no letters, no numbers, no speech bubbles, no watermark.\n\nA plain light wooden desk seen from the front. Three objects lie in a row on the desktop: on the LEFT a closed pink and white hardcover book, in the MIDDLE a black smartphone lying face up, on the RIGHT a yellow pencil. Nothing else on the desk. Simple flat background wall.",
+    "size": "1024x1024"
+   }
+  },
+  {
+   "n": 9,
+   "part": "제3부분",
+   "num": "1",
+   "zh": "从你家到公共汽车站很远吗？",
+   "ko": "집에서 버스정류장까지 먼가요?",
+   "img": {
+    "file": "g1_09.png",
+    "prompt": "Flat 2D Korean-textbook illustration for a language exam. Bold clean uniform black outlines, simple flat cel colors, minimal shading, simple uncluttered background, bright friendly palette. No text, no letters, no numbers, no speech bubbles, no watermark.\n\nA man and a woman walking side by side along a city sidewalk between office buildings, talking to each other. The man wears a blue sweater, the woman wears a pink cardigan, purple skirt and carries a shoulder bag. Daytime.",
+    "size": "1024x1024"
+   }
+  },
+  {
+   "n": 10,
+   "part": "제3부분",
+   "num": "2",
+   "zh": "这是你新买的笔记本电脑吗？",
+   "ko": "이거 새로 산 노트북이야?",
+   "img": {
+    "file": "g1_10.png",
+    "prompt": "Flat 2D Korean-textbook illustration for a language exam. Bold clean uniform black outlines, simple flat cel colors, minimal shading, simple uncluttered background, bright friendly palette. No text, no letters, no numbers, no speech bubbles, no watermark.\n\nTwo women in a bright office. One woman in a green sweater sits at a desk typing on an open laptop. Another woman in a blue cardigan stands beside her, leaning in and gesturing as she asks a question. Office shelves behind.",
+    "size": "1024x1024"
+   }
+  },
+  {
+   "n": 11,
+   "part": "제3부분",
+   "num": "3",
+   "zh": "这家咖啡店没座位了，怎么办？",
+   "ko": "이 카페 자리가 없네, 어떡하지?",
+   "img": {
+    "file": "g1_11.png",
+    "prompt": "Flat 2D Korean-textbook illustration for a language exam. Bold clean uniform black outlines, simple flat cel colors, minimal shading, simple uncluttered background, bright friendly palette. No text, no letters, no numbers, no speech bubbles, no watermark.\n\nA man and a woman standing on the sidewalk outside a pink coffee shop. Through the large window, the cafe is visibly full with several seated customers. The man in a green sweater looks troubled and gestures toward the window; the woman in an orange jacket with a shoulder bag listens, seen from behind at an angle.",
+    "size": "1024x1024"
+   }
+  },
+  {
+   "n": 12,
+   "part": "제3부분",
+   "num": "4",
+   "zh": "我哥哥快要大学毕业了，送他什么礼物好呢？",
+   "ko": "형이 곧 대학을 졸업하는데 무슨 선물이 좋을까?",
+   "img": {
+    "file": "g1_12.png",
+    "prompt": "Flat 2D Korean-textbook illustration for a language exam. Bold clean uniform black outlines, simple flat cel colors, minimal shading, simple uncluttered background, bright friendly palette. No text, no letters, no numbers, no speech bubbles, no watermark.\n\nA young woman in a yellow sweater and a young man in a light blue sweater sitting across a small round white table by a wide open window, each with a coffee cup, chatting. Small potted flowers on the windowsill, city rooftops and blue sky outside.",
+    "size": "1024x1024"
+   }
+  },
+  {
+   "n": 13,
+   "part": "제3부분",
+   "num": "5",
+   "zh": "这种裤子最近很流行，试一下吧。",
+   "ko": "이 바지 요즘 유행이야, 한번 입어봐.",
+   "img": {
+    "file": "g1_13.png",
+    "prompt": "Flat 2D Korean-textbook illustration for a language exam. Bold clean uniform black outlines, simple flat cel colors, minimal shading, simple uncluttered background, bright friendly palette. No text, no letters, no numbers, no speech bubbles, no watermark.\n\nInside a clothing shop. A male shop clerk in a purple vest, white shirt and tie holds up a pair of blue jeans with both hands toward a female customer. The woman wears a pink cardigan and purple skirt with a small brown handbag, looking at the jeans. Clothing racks behind, folded clothes stacked on tables.",
+    "size": "1024x1024"
+   }
+  },
+  {
+   "n": 14,
+   "part": "제4부분",
+   "num": "1",
+   "zh": "你喜欢画画儿吗？请简单谈谈看。",
+   "ko": "그림 그리는 것을 좋아합니까? 간단히 말해 보세요.",
+   "img": null
+  },
+  {
+   "n": 15,
+   "part": "제4부분",
+   "num": "2",
+   "zh": "你常吃巧克力、饼干等甜的东西吗？请简单说说。",
+   "ko": "초콜릿, 과자 같은 단것을 자주 먹습니까?",
+   "img": null
+  },
+  {
+   "n": 16,
+   "part": "제4부분",
+   "num": "3",
+   "zh": "你做决定时容易受别人的影响吗？请简单说说看。",
+   "ko": "결정할 때 남의 영향을 쉽게 받습니까?",
+   "img": null
+  },
+  {
+   "n": 17,
+   "part": "제4부분",
+   "num": "4",
+   "zh": "你遇到过有名的人吗？请简单说一说。",
+   "ko": "유명한 사람을 만난 적이 있습니까?",
+   "img": null
+  },
+  {
+   "n": 18,
+   "part": "제4부분",
+   "num": "5",
+   "zh": "你是个比较有耐心的人吗？请简单谈谈。",
+   "ko": "당신은 인내심이 있는 편입니까?",
+   "img": null
+  },
+  {
+   "n": 19,
+   "part": "제5부분",
+   "num": "1",
+   "zh": "很多大学生一边上学一边打工，对此你有什么看法？",
+   "ko": "많은 대학생이 학업과 아르바이트를 병행합니다. 어떻게 생각합니까?",
+   "img": null
+  },
+  {
+   "n": 20,
+   "part": "제5부분",
+   "num": "2",
+   "zh": "你认为遵守时间很重要吗？请说说你的看法。",
+   "ko": "시간을 지키는 것이 중요하다고 생각합니까?",
+   "img": null
+  },
+  {
+   "n": 21,
+   "part": "제5부분",
+   "num": "3",
+   "zh": "你认为在学习上学生之间的竞争带来的好处多还是坏处多？请谈谈你的想法。",
+   "ko": "학습에서 학생 간 경쟁은 장점이 많습니까, 단점이 많습니까?",
+   "img": null
+  },
+  {
+   "n": 22,
+   "part": "제5부분",
+   "num": "4",
+   "zh": "最近有关健康的电视节目越来越多，你认为这给人们带来了什么影响？请谈谈你的想法。",
+   "ko": "건강 관련 TV 프로그램이 늘고 있습니다. 어떤 영향을 준다고 생각합니까?",
+   "img": null
+  },
+  {
+   "n": 23,
+   "part": "제6부분",
+   "num": "1",
+   "zh": "同屋邀你一起去公园散步，但你想休息，请你向他说明情况，并请求谅解。",
+   "ko": "룸메이트가 공원 산책을 제안했지만 쉬고 싶습니다. 상황을 설명하고 양해를 구하세요.",
+   "img": {
+    "file": "g1_23.png",
+    "prompt": "Flat 2D Korean-textbook illustration for a language exam. Bold clean uniform black outlines, simple flat cel colors, minimal shading, simple uncluttered background, bright friendly palette. No text, no letters, no numbers, no speech bubbles, no watermark.\n\nTwo young men in a simple dormitory room. One in a yellow sweater sits on the edge of a lower bunk bed, gesturing with one hand as he speaks. The other in a blue sweater sits on a chair at a wooden desk, turned toward him and listening. A curtained window between them.",
+    "size": "1024x1024"
+   }
+  },
+  {
+   "n": 24,
+   "part": "제6부분",
+   "num": "2",
+   "zh": "你有两张音乐会票。请你向对音乐感兴趣的朋友说明情况，并邀请她一起去。",
+   "ko": "음악회 표 두 장이 있습니다. 음악에 관심 있는 친구에게 설명하고 함께 가자고 초대하세요.",
+   "img": {
+    "file": "g1_24.png",
+    "prompt": "Flat 2D Korean-textbook illustration for a language exam. Bold clean uniform black outlines, simple flat cel colors, minimal shading, simple uncluttered background, bright friendly palette. No text, no letters, no numbers, no speech bubbles, no watermark.\n\nTwo young women sitting across a wooden table by a wide open window in a cafe, each with a coffee cup. The woman on the left, in a blue and white sweater, smiles and holds up two golden tickets to show her friend. The woman on the right, in an orange and yellow jacket with a ponytail, looks at the tickets.",
+    "size": "1024x1024"
+   }
+  },
+  {
+   "n": 25,
+   "part": "제6부분",
+   "num": "3",
+   "zh": "天冷了，你在网上买了一副手套，但过了送货期限还没收到。请你给商家打电话表示不满，并要求解决问题。",
+   "ko": "날이 추워져 인터넷으로 장갑을 샀는데 배송 기한이 지나도 못 받았습니다. 판매자에게 전화해 불만을 말하고 해결을 요구하세요.",
+   "img": {
+    "file": "g1_25.png",
+    "prompt": "Flat 2D Korean-textbook illustration for a language exam. Bold clean uniform black outlines, simple flat cel colors, minimal shading, simple uncluttered background, bright friendly palette. No text, no letters, no numbers, no speech bubbles, no watermark.\n\nA woman sitting on a beige sofa in a living room, holding a telephone handset to her ear with a troubled, unhappy frowning expression. A low blue coffee table in front of the sofa, framed pictures on the wall behind, window blinds on the right.",
+    "size": "1024x1024"
+   }
+  },
+  {
+   "n": 26,
+   "part": "제7부분",
+   "num": "1",
+   "zh": "现在请根据图片的内容讲述故事，请尽量完整、详细。讲述时间是90秒。",
+   "ko": "그림 내용에 따라 이야기를 해 보세요. 90초입니다.",
+   "img": {
+    "file": "g1_7.png",
+    "prompt": "A 4-panel comic strip arranged left to right in a single row, each panel with a thin black border.\nFlat 2D Korean-textbook illustration for a language exam. Bold clean uniform black outlines, simple flat cel colors, minimal shading, simple uncluttered background, bright friendly palette. No text, no letters, no numbers, no speech bubbles, no watermark.\nThe SAME three characters must look IDENTICAL in all four panels:\n- MOTHER: short dark bob hair, pink jacket, purple skirt, brown shoulder bag\n- FATHER: short dark hair, brown jacket, grey trousers\n- SON: about 12 years old, green sweater, blue jeans, short dark hair\n\nPANEL 1 - Home entrance hallway with shoes on the floor. The mother and father are stepping out through the front\ndoor to go out. The son stands behind them watching them leave, wearing a sly mischievous grin.\n\nPANEL 2 - The son ALONE in the living room, rushing eagerly to the computer desk and switching the computer on.\nExcited impatient face, motion lines showing he is hurrying. No parents in this panel.\n\nPANEL 3 - An apartment elevator lobby, a small sign on the wall. The mother and father stand together, BOTH with\nSURPRISED dismayed expressions and open mouths, as if they suddenly remembered something and must go back up.\n\nPANEL 4 - THE PUNCHLINE, must show conflict: the mother has come back into the room and CAUGHT the son playing a\nvideo game. The mother is ANGRY, leaning over the desk and shouting. The son is caught red-handed with a guilty\nfrozen grin. On the monitor is a GENERIC ABSTRACT puzzle game made only of simple colored geometric blocks and shapes on a plain background. It must NOT resemble any real or existing commercial video game, character, logo or franchise. Tension lines around them.",
+    "size": "1536x1024"
+   }
+  }
+ ]
+}
